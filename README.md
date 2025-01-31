@@ -23,14 +23,14 @@ The **Jdownloader-Proxy-List-Generator** is a Python-based tool designed to effi
 ## Installation
 
 1. **Clone or Download the Script:**
-   - Save the script to your desired directory, e.g., `C:\Users\syntax\Desktop\New folder (5)\proxy_scraper.py`.
+   - Save the script to your desired directory
 
 2. **Run the Script:**
    - **Via Terminal:**
      1. Open **Command Prompt** or **PowerShell**.
      2. Navigate to the script's directory:
         ```powershell
-        cd "C:\Users\syntax\Desktop\New folder (5)"
+        cd "C:\"
         ```
      3. Execute the script:
         ```powershell
